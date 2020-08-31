@@ -1,0 +1,168 @@
+	#outer{
+		height:980px;
+		width:1000px;
+		background-color:#00b300;
+		border:2px double green;
+		margin:0px auto;
+	}
+	
+	#menu{
+		height:50px;
+		width:950px;
+		background-color:lightgreen;
+		border:2px solid white;
+		margin:0px auto;
+		margin-top:10px;
+	}
+	#menu a{
+		text-decoration:none;
+		font-size:18px;
+		color:white;
+	}
+	#menu ul{
+		list-style-type:none;
+	}
+	#menu ul li{
+		display:inline;
+		padding:15px;
+		//border:1px solid black;
+	}
+	#menu ul li:hover{
+		color:gray;
+		background-color:green;
+	}
+	h1{
+		text-align:center;
+		padding-top:200px;
+		font-size:60px;
+		text-decoration:underline;
+		text-shadow:10px 5px 20px red;
+	}
+	
+	#sbar{
+		width:300px;
+	}
+	#outer ul li b{
+		color:white;
+	}
+	
+    	
+	#footer{
+	height:340px;
+	background-color:white;
+	width:970px;
+	margin:15px;
+}
+		#left{ 
+		
+		text-align:center;
+			margin:7px;
+			height:300px;
+			width:310px;
+			background-color:gray;
+			color:Aqua;
+			float:left;
+			margin-top:19px;
+		}
+		#left li{
+			list-style-type:none;
+			color:white;
+			padding-top:20px;
+		}
+
+		#right{
+			margin:7px;
+			float:left;
+			height:300px;
+			width:310px;
+			background-color:gray;
+			color:white;
+			margin-top:19px;
+			text-align:center;
+		}
+		#right h3{
+			text-decoration:underline;
+		}
+		#center{
+			text-align:center;
+			margin:5px;
+			margin-top:19px;
+			float:left;
+			height:300px;
+			width:310px;
+			background-color:gray;
+			color:Aqua;
+		}
+		#center li{
+			list-style-type:none;
+			color:white;
+			padding-top:15px;
+		}
+		#right a img{
+			height:50px;
+			width:50px;
+			margin:20px;
+		}
+	#main{
+		height:500px;
+		width:900;
+		border:2px inset white;
+		margin:25px;
+	}
+	#qaz{
+		margin:20px;
+		height:460px;
+		width:300px;
+		//border:1px inset white;
+		background-color:white;
+		float:left;
+		color:red;
+		
+	}
+	#qaz li{
+		padding-left:30px;
+		
+	}
+	#qaz h3{
+		padding-left:30px;
+		
+	}
+	#qaz img{
+		width:120px;
+		height:120px;
+		margin:10px;
+		border:4px inset aqua;
+		
+	}
+	#az{
+		float:left;
+		margin:20px;
+		height:460px;
+		width:560px;
+		background-color:white;
+		color:red;
+	}
+	#az h2{
+		padding-left:50px;
+		
+	}
+	#az table{
+		padding-left:20px;
+	}
+	
+	#az span{
+		padding-left:50px;
+		
+	}
+	#az table input{
+		height:30px;
+		width:300px;
+		
+	}
+	textarea{
+		height:250px;
+		width:400px;
+		border:2px inset red; 
+	}
+	
+	
